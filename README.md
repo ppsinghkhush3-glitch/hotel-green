@@ -1,1 +1,1 @@
-# hotel-green
+# hotel-site
