@@ -3,9 +3,9 @@ import { Mail, Phone, MapPin, Send } from "lucide-react";
 import emailjs from "@emailjs/browser";
 
 // EmailJS Configuration
-const EMAILJS_SERVICE_ID = "service_12y6xre";
-const EMAILJS_TEMPLATE_ID = "template_mz16rsu";
-const EMAILJS_PUBLIC_KEY = "bsmrGxOAEmpS7_WtU";
+const EMAILJS_SERVICE_ID = "service_9fdmbea";
+const EMAILJS_TEMPLATE_ID = "template_q5fxcv9";
+const EMAILJS_PUBLIC_KEY = "aSviIJ5xfze0K9RlB";
 
 export default function ContactForm() {
   const formRef = useRef<HTMLFormElement>(null);
