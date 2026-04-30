@@ -3,9 +3,9 @@ import emailjs from "@emailjs/browser";
 import { ArrowLeft, Calendar, X, Loader2, CheckCircle, AlertCircle } from "lucide-react";
 
 // --- CONFIGURATION ---
-const SERVICE_ID = "service_12y6xre";
-const TEMPLATE_ID = "template_1scrkoq";
-const PUBLIC_KEY = "bsmrGxOAEmpS7_WtU";
+const SERVICE_ID = "service_9fdmbea";
+const TEMPLATE_ID = "template_i0lqbx2";
+const PUBLIC_KEY = "aSviIJ5xfze0K9RlB";
 
 const BREAKFAST_COST = 200;
 
