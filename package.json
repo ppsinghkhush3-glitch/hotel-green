@@ -3,12 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-  "dev": "vite",
+ "scripts": {
   "build": "vite build",
-  "start": "npx serve -s dist -l $PORT",
-  "preview": "vite preview"
-
+  "start": "npx serve -s dist -l $PORT"
 }
   },
   "dependencies": {
