@@ -4,8 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+  "dev": "vite",
   "build": "vite build",
-  "start": "npx serve -s dist -l $PORT"
+  "start": "npx serve -s dist -l $PORT",
+  "preview": "vite preview"
+
 }
   },
   "dependencies": {
