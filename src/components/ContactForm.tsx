@@ -88,11 +88,11 @@ export default function ContactForm() {
                     className="text-gray-600"
                     style={{ fontFamily: "'Roboto', sans-serif", fontWeight: 300 }}
                   >
-                    Hotel Green Garden
+                    Tajpur Rd, opp. HDFC BANK
                     <br />
-                    Opp. Govt. ITI College, Civil Lines
+                    Guru Ram Das Nagar, Bhamian Khurd
                     <br />
-                    Ludhiana, Punjab 141001
+                    Ludhiana, Punjab 141008
                   </p>
                 </div>
               </div>
