@@ -3,8 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://hotelgreengarden.in"
+  "homepage": "https://hotelgreengarden.in",
   "scripts": {
+    "dev": "vite",
     "build": "vite build",
     "start": "npx serve -s dist -l $PORT"
   },
